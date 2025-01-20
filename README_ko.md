@@ -57,8 +57,8 @@ OpenDID 표준은 상호운용성을 촉진하고, 보안성을 강화하며, �
 이를 통해 프로젝트 전반에 걸쳐 일관된 규칙과 프로토콜을 적용합니다.
 
 자세한 내용은 다음 문서를 참조하세요:
-1. [Concepts](docs/concepts): OpenDID의 주요 개념을 설명합니다.
-2. [Security](docs/security): 보안 모델과 관련된 사항을 다룹니다. OpenDID 플랫폼이 보안 위협으로부터 어떻게 보호되는지 설명합니다.
+1. 개념(Concepts): OpenDID의 주요 개념을 설명합니다.
+2. 보안(Security): 보안 모델과 관련된 사항을 다룹니다. OpenDID 플랫폼이 보안 위협으로부터 어떻게 보호되는지 설명합니다.
 <!--3. [Protocol](docs/protocol): OpenDID에서 사용하는 통신 프로토콜에 대한 설명입니다. 네트워크 간의 상호작용 방식을 다룹니다.-->
 
   
@@ -139,4 +139,4 @@ did-doc-architecture
 Contributing 및 pull request 제출 절차에 대한 자세한 내용은 [CONTRIBUTING.md](CONTRIBUTING.md)와 [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) 를 참조하세요.
 
 ## 8. License
-[Apache 2.0](LICENSE)
+[Apache 2.0](https://github.com/OmniOneID/did-doc-architecture/blob/main/LICENSE)

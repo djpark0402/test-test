@@ -18,7 +18,7 @@ puppeteer:
 Software Architecture
 ==
 
-- Topic: Explanation of Software Architecture using the C4 model  
+- Subject: Explanation of Software Architecture using the C4 model  
 - Author: Kang Young-ho 
 - Date: 2024-09-03  
 - Version: v1.0.0  

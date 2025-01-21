@@ -57,8 +57,8 @@ OpenDID standards are designed to promote interoperability, enhance security, an
 These standards apply consistent rules and protocols throughout the project.
 
 For more information, refer to the following documents:
-1. [Concepts](docs/concepts): Explains the key concepts of OpenDID.
-2. [Security](docs/security): Covers security-related topics, explaining how the OpenDID platform is protected from security threats.
+1. Concepts: Explains the key concepts of OpenDID.
+2. Security: Covers security-related topics, explaining how the OpenDID platform is protected from security threats.
 <!--3. [Protocol](docs/protocol): Describes the communication protocols used by OpenDID and how interaction between DID networks is handled.-->
 
 
@@ -140,4 +140,4 @@ did-doc-architecture
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) and [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## 8. License
-[Apache 2.0](LICENSE)
+[Apache 2.0](https://github.com/OmniOneID/did-doc-architecture/blob/main/LICENSE)
